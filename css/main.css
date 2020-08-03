@@ -1,0 +1,97 @@
+
+    .navbar .form-inline {
+        display: inline-block;
+    }
+    .navbar .nav li {
+		position: relative;
+	}
+	
+	.navbar .nav .get-started-btn {
+		min-width: 100px;
+		margin: 8px 8px 8px 8px;
+	}
+
+	.navbar .navbar-form {
+		border: none;
+	}
+
+	.navbar .dropdown-menu.form-wrapper {
+		width: 280px;
+		padding: 20px;
+		left: auto;
+		right: 0;
+        font-size: 14px;
+	}
+	.navbar .form-wrapper .form-footer {
+		text-align: center;
+		padding-top: 10px;
+		font-size: 13px;
+	}
+	
+	.navbar .form-wrapper .checkbox-inline input {
+		margin-top: 3px;
+	}
+	
+	.form-control {
+		box-shadow: none;		
+		font-weight: normal;
+		font-size: 13px;
+	}
+	.form-control:focus {
+		border-color: #33cabb;
+		box-shadow: 0 0 8px rgba(0,0,0,0.1);
+	}
+	.navbar .form-inline {
+        display: inline-block;
+    }
+    .navbar .checkbox-inline {
+		font-size: 13px;
+	}
+	
+
+/*
+====================================
+|   |   |   | Jumbotron
+====================================
+*/
+
+#statement {
+    background: url(../img/img.png) no-repeat fixed center;
+    background-size: cover;
+
+}
+
+#statement .content-box-lg {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+
+#tech-satement h3 {
+    font-size: 28px;
+    color: #fff;
+    line-height: 45px;
+}
+
+#tech-satement p {
+    font-size: 14px;
+    color: #f4c613;
+    margin-top: 8px;
+}
+
+#statement .content-box-lg {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.content-box-lg {
+    padding: 160px 0;
+}
+
+.carousel-inner h3{
+	color: #f4c613;
+}
+
+/*Services*/
+#services .row {
+	width:100%;
+	
+}
